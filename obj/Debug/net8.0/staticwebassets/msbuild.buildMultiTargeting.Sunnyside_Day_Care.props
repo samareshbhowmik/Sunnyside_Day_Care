@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sunnyside_Day_Care.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sunnyside_Day_Care.props" />
+</Project>
